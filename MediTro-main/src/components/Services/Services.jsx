@@ -12,9 +12,9 @@ function Services() {
             <div className="container">
                 <div className="row">
                     <div className="col-lg-4 col-md-12 mb-4 left">
-                        <h6>Services</h6>
-                        <h4>We Cover A Big Variety Of Medical Services</h4>
-                        <p>We provide the special tips and advice’s of heath care treatment and high level of best.</p>
+                        <h6>Value Services: we value your Time and Health</h6>
+                        <h4>We are your family in this difficult Time</h4>
+                        <p>We will act in the best interest of the Patient with outmost Honesty</p>
                         <button>All Services</button>
                     </div>
                     <div className="col-lg-8 col-md-12 mb-4">
@@ -25,12 +25,12 @@ function Services() {
                        
                     </div>
                 </div>
-                <div className="image-decore">
+                {/* <div className="image-decore">
                     <img className='img-decore-one' src={img1} alt="" />
                     <img className='img-decore-two' src={img2} alt="" />
                     <img className='img-decore-three' src={img3} alt="" />
                     <img className='img-decore-four' src={img4} alt='' />
-                </div>
+                </div> */}
             </div>
         </div>
     </>

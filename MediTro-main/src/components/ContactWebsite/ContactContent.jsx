@@ -17,9 +17,24 @@ function ContactContent() {
                         <div className="select-group one-select">
                                 <select name="" id="">
                                     <option value="">Select Department</option>
-                                    <option value="">One</option>
-                                    <option value="">Two</option>
-                                    <option value="">Three</option>
+                                    <option value="InternalMedicine">Internal Medicine</option>
+                                    <option value="Pediatrics">Pediatrics</option>
+                                    <option value="Surgery">Surgery</option>
+                                    <option value="ObstetricsGynecology">Obstetrics and Gynecology</option>
+                                    <option value="Orthopedics">Orthopedics</option>
+                                    <option value="Cardiology">Cardiology</option>
+                                    <option value="Neurology">Neurology</option>
+                                    <option value="Dermatology">Dermatology</option>
+                                    <option value="Ophthalmology">Ophthalmology</option>
+                                    <option value="Otolaryngology">Otolaryngology</option>
+                                    <option value="Psychiatry">Psychiatry</option>
+                                    <option value="Radiology">Radiology</option>
+                                    <option value="Anesthesiology">Anesthesiology</option>
+                                    <option value="EmergencyMedicine">Emergency Medicine</option>
+                                    <option value="Pulmonology">Pulmonology</option>                                   
+
+
+
                                 </select>
                         </div>
                         <textarea name="" id="" cols="1" rows="6" placeholder='Type Message'></textarea>
@@ -30,10 +45,10 @@ function ContactContent() {
                         <div className="right-box">
                         <h2>Contact Us For Any Informations</h2>
                         <p><FontAwesomeIcon icon={faMapLocationDot} />Location</p>
-                        <span>Mansoura Qism 2, El Mansoura, Dakahlia Governorate , Egypt</span>
+                        <span>Apeksh</span>
                         <p><FontAwesomeIcon icon={faEnvelopesBulk} />Email & Phone</p>
                         <div className="email-phone">
-                            elhadidii624@gmail.com<br/>
+                            Apeksh@gmail.com<br/>
                             (+20) 1060088542
                         </div>
                         <p><FontAwesomeIcon icon={faGlobe} />Follow Us</p>

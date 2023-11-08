@@ -29,7 +29,8 @@
 .left h4 {
     font-weight: bold;
     font-size: 40px;
-    color: var(--mainColor);
+    color:  rgb(29, 196, 233);
+    
 }
 
 .left button {
@@ -62,7 +63,7 @@
     content: '';
     width: 630px;
     height: 100%;
-    background-color: var(--mainColor);
+    background-color: rgb(29, 196, 233);
     right: -40px;
     top: 0;
     border-radius: 50px;

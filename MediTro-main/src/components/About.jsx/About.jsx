@@ -19,36 +19,37 @@ function About() {
                             <li><img className='person1' src={person1} alt="" /></li>
                             <li><img className='person2' src={person2} alt="" /></li>
                             <li><img className='person3'src={person3} alt="" /></li>
-                            <li>
+                            {/* <li>
                                 <div className="box">
                                     10
                                     <span>Year Experience</span>
                                 </div>
-                            </li>
+                            </li> */}
                         </ul>
                     </div>
                     <div className="col-lg-6 col-md-12">
                         <div className="titles">
                         <h5>About us</h5>
-                        <h3>The Great Place Of Medical Hospital Center</h3>
-                        <p>We provide the special tips and advice’s of heath care treatment and high level of best technology involve in the our hospital.  </p>
+                        <h3>Our algorithm will find you a best Doctor at Best Price</h3>
+                        <p>We provide the quick reponse and continous communication which build great trust between Apeksh and Patient 
+                             </p>
                         <div className="box-row-one">
-                            <h4><FontAwesomeIcon icon={faTruck} />Emergency Help</h4>
-                            <h4><FontAwesomeIcon icon={faBed} />Qualified Doctors</h4>
+                            <h4><FontAwesomeIcon icon={faTruck} />Travel Assistance</h4>
+                            <h4><FontAwesomeIcon icon={faBed} />Best Doctors</h4>
                         </div>
                         <div className="box-row-two">
-                            <h4><FontAwesomeIcon icon={faUserPlus} />Emergency Help</h4> 
-                            <h4><FontAwesomeIcon icon={faSyringe} />Qualified Doctors</h4>
+                            <h4><FontAwesomeIcon icon={faUserPlus} />Safe and Trustful </h4> 
+                            <h4><FontAwesomeIcon icon={faSyringe} />Ethical practices</h4>
                         </div>
                         <div className="button">Read More</div>
                         </div>
                     </div>
-                    <div className="images-div">
+                    {/* <div className="images-div">
                         <img className='img-rotate' src={rotateimg} alt="" />
                         <img className='img-square' src={sqareimg} alt="" />
-                        <img className='img-dotted' src={dottedimg} alt="" />
-                        <img className='img-wave' src={waveimg} alt="" />
-                    </div>
+                        <img className='img-dotted' src={dottedimg} alt="" /> */}
+                        {/* <img className='img-wave' src={waveimg} alt="" /> */}
+                    {/* </div> */}
                 </div>
             </div>
         </div>

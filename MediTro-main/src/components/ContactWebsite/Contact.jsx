@@ -10,7 +10,7 @@ function Contact() {
   return (
     <>
             <Links />
-            <ContactHeading />
+            {/* <ContactHeading /> */}
             <ContactContent />
             <div className="info pb-5">
                 <div className="container">
@@ -35,7 +35,7 @@ function Contact() {
                                 <div className="box-info thrd-info">
                                     <FontAwesomeIcon icon={faLocationDot} />
                                     <h4>Location</h4>
-                                    <span>Mansoura Qism 2, El Mansoura, Dakahlia Governorate , Egypt</span>
+                                    <span>Apeksh</span>
                                 </div>                            
                         </div>
                     </div>

@@ -17,8 +17,8 @@ function Website() {
         <Links />
         <Home />
         <About />
-        <Process />
-        <Appointment />
+        {/* <Process /> */}
+        {/* <Appointment /> */}
         <Services />
         <Testimonial />
         <New />

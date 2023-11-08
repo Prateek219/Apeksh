@@ -9,7 +9,7 @@ html {
     scroll-behavior: smooth;
 }
 :root {
-    --mainColor: #5559CE;
+    --mainColor: rgb(29, 196, 233);
     --secColor : #E38C5B;
 }
 

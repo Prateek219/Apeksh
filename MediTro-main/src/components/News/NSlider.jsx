@@ -33,7 +33,7 @@ function NSlider() {
   return (
     <Swiper
     autoplay={{
-        delay:  2000,
+        delay:  1000,
     }}
     loop={true}
     modules={[Autoplay]}
